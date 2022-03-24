@@ -3,6 +3,7 @@ public class Hello {
 		System.out.println("Hello Gits!");
 		System.out.println("login");
 		system.out.println("logout");
+		system.out.println("Register");
 	}
 }
 
