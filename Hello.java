@@ -5,6 +5,7 @@ public class Hello {
 		system.out.println("logout");
 		system.out.println("Register");
 		system.out.println("what is Git?");
+		system.out.println("That's DVCS!");
 	}
 }
 
