@@ -10,6 +10,7 @@ public class Hello {
 		system.out.println("Register");
 		system.out.println("what is Git?");
 		system.out.println("That's DVCS!");
+		system.out.println("Hello Git2!");
 	}
 }
 
